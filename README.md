@@ -30,7 +30,8 @@ y=a
 print("Swapped values are:",n,y)
 ```
 ## OUTPUT:
-![output](./Swappingoutput.png)
+![output](https://github.com/mugil25/Swapping-two-values/assets/148515771/f7e42954-f01d-4b1b-9a0f-4d663b725786)
+
 
 
 
